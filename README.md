@@ -95,6 +95,6 @@ Output: Accuracy Score of Various Models on 5 different Samples.
 
 Following Table summarises Our Final Outcome in form of accuracy values obtained for different Models after applying them on samples obtained through various Sampling Techniques :
 
-![image]
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/90442567/301617003-354bff38-df10-41c4-8aa2-88f7dfa4b639.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240203T074250Z&X-Amz-Expires=300&X-Amz-Signature=09dd14f14753460e5082c75fad6021215ca5a78ea7509481a95aa156b9fc6e0d&X-Amz-SignedHeaders=host&actor_id=116865199&key_id=0&repo_id=751498873)
 # 4.Result :
 Decision Tree Obtained the Highest Accuracy Score on Bootstrap Sample among the samples and also performed really well on the five samples in comparison to the other models that we used for our analysis.
