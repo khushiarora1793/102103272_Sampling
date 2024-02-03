@@ -24,7 +24,7 @@ Class Distribution of Balanced Dataset:
 Name: Class, dtype: int64
 
 Following Bar-Chart Shows the Class Distribution after Balancing the Dataset :
-![image]
+![image](https://github.com/khushiarora1793/102103272_Sampling/blob/main/102103272_bar.png)
 
 Now 5 different Sampling Techniques were applied on the Balanced Dataset ,which are mentioned as below :
 
