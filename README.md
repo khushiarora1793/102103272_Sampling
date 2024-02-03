@@ -9,7 +9,7 @@ In this Assignment, We were given a Credit Card Dataset comprising of 772 instan
 
 Following Pie-Chart Shows the Class Imbalance :
 
-![image]
+![image](https://github.com/khushiarora1793/102103272_Sampling/blob/main/102103272_piechart.png)
 
 ## Stage 2:
 In Order to balance the dataset, I used RandomOverSampler, it's an effective technique for dealing with imbalanced datasets. RandomOverSampler randomly duplicates instances from the minority class until it is balanced with the majority class. This method is simpler compared to SMOTE, as it doesn't involve creating synthetic samples but instead replicates existing minority class instances.
