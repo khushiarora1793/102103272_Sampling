@@ -2,7 +2,8 @@
 By Khushi Arora 102103272 B.E Computer Engineering ,TIET Patiala
 
 # 1. Methodology
-![image](https://private-user-images.githubusercontent.com/90442567/301607718-98071500-447b-4fc5-bcd4-130d346303b0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY5NDc5NjUsIm5iZiI6MTcwNjk0NzY2NSwicGF0aCI6Ii85MDQ0MjU2Ny8zMDE2MDc3MTgtOTgwNzE1MDAtNDQ3Yi00ZmM1LWJjZDQtMTMwZDM0NjMwM2IwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjAzVDA4MDc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2MTlkMzgwNWRhOGQzNzhiODdlMDQ2OTM4ZmE2MDdkOGQxNzVmMWFiNTFhMTE0ZjdiZjBiMGExMWVhZWJlMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.erJcs1UZ9Dl7cxJJIaVbiPF8CxgIQngELDyzRRHudf8)
+![image](https://github.com/khushiarora1793/102103272_Sampling/assets/116865199/cc59048c-0655-4e5c-9fff-01c10b2ee55a)
+
 # 2. Description
 ## Stage 1 :
 In this Assignment, We were given a Credit Card Dataset comprising of 772 instances and 31 features, out of whixh on checking it was found that the data had 763 instance of Class 0 and only 9 instances of Class 1, pointing to the fact that the dataset is highly imbalanced.
